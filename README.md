@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kerem</h1>
 <h3 align="center">J. Fullstack Developer</h3>
 
-- ⚙️ I’m currently working on [P2PF](https://github.com/keremkabiloglu/p2pf)
-
-- 🧠 I’m currently learning **Flutter, Dart, NodeJS and Javascript**
+- 🧠 I’m currently learning **Flutter, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/keremkabiloglu/](https://github.com/keremkabiloglu/)
 
